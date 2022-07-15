@@ -1,0 +1,9 @@
+**/*.exe
+
+bin/
+target/
+.idea/
+
+*.log
+*.tar
+*.tar.gz
