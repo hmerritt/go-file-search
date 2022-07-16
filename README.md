@@ -2,7 +2,7 @@
 
 Recursively search files.
 
-Uses `go-ngram` to search for files super-fast.
+Uses [`go-ngram`](https://github.com/hmerritt/go-ngram) to search for files super-fast.
 
 ## Usage
 
